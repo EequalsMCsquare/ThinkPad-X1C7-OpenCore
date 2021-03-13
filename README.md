@@ -40,7 +40,9 @@ I have not tested HDMI and Type-C.
 
 ##### AC9560 can NOT reach 100% performance
 
-<img src="./pic/macOS测速.png" alt="macOS Speed Test Result" style="zoom:80%;" />
+![macOS Speed Test](./pic/macOS测速.png)
+
+![Linux Speed Test](./pic/Linux测速.png)
 
 
 
