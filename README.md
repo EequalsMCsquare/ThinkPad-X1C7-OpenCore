@@ -40,9 +40,17 @@ I have not tested HDMI and Type-C.
 
 ##### AC9560 can NOT reach 100% performance
 
-![macOS Speed Test](./pic/macOS测速.png)
+![macOS Speed Test](./pic/macOS测速.png)speedtest with itswm.kext and HeliPort
 
 ![Linux Speed Test](./pic/Linux测速.png)
+
+### Extra
+
+Triple boot
+
+![Bootloader](./pic/tripleboot.jpeg)
+
+
 
 
 
